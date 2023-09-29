@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   actions_toolkit_dart: ^0.5.1
-  flutterando_metrics: ^5.7.6
+  flutterando_metrics: ^5.7.7
   github: ^9.17.0
   meta: ^1.9.1
   path: ^1.8.3
